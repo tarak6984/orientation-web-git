@@ -7,7 +7,7 @@ This github repository will walk you through setting up your Git and GitHub acco
 ## Checklist
 
 - [x] View this README
-- [ ] Create a GitHub Account
+- [x] Create a GitHub Account
 - [ ] Open your Command Line Interface
 - [ ] Setting up your Username and Email
 - [ ] Setting up your Authentication
